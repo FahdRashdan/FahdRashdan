@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Fahd 👋
 
-<!--
-**FahdRashdan/FahdRashdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer & Cybersecurity Engineer
 
-Here are some ideas to get you started:
+I build modern web and mobile applications, with a focus on **backend development, software engineering, and cybersecurity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Languages**
+
+* JavaScript
+* TypeScript
+* Python
+* C++
+* C
+* SQL
+
+**Frontend & Mobile**
+
+* React
+* React Native
+* Next.js
+* Expo
+* Flutter
+
+**Backend & Databases**
+
+* Node.js
+* PostgreSQL
+* MongoDB
+* Neon
+* Supabase
+
+
+### Let's Connect
+
+I'm always open to connecting, collaborating, and working on interesting projects.
+
+* **GitHub:** [@FahdRashdan](https://github.com/FahdRashdan/)
+* **LinkedIn:** [Fahd Rashdan](https://www.linkedin.com/in/fahdrashdan/)
