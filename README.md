@@ -64,7 +64,7 @@ and the APIs, databases, and infrastructure behind them. Alongside development, 
 <h4 align="center">Developer Tooling</h4>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,postman&perline=8" alt="VS Code and Postman"/>
-<img src="assets/antigravity.svg" width="48" height="48" alt="Antigravity IDE"/>
+<img src="assets/antigravityIde.png" width="48" height="48" alt="Antigravity IDE"/>
 </p>
 
 ---
