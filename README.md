@@ -21,7 +21,6 @@ and the APIs, databases, and infrastructure behind them. Alongside development, 
 
 <div align="center">
 
-<img src="assets/focus.svg" width="95%" alt="Engineering focus areas"/>
 
 </div>
 
