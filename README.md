@@ -128,16 +128,6 @@ Developer tooling
 
 ---
 
-<h2 align="center">Activity Dashboard</h2>
-
-<div align="center">
-
-<img src="assets/dashboard.svg" width="95%" alt="Activity dashboard with contribution calendar, languages, and weekly contributions"/>
-
-</div>
-
----
-
 <h2 align="center">Open to Collaboration</h2>
 
 <p align="center">
